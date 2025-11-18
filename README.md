@@ -2,7 +2,7 @@
 
 Un simulador espacial interactivo desarrollado en Rust que te permite explorar nuestro sistema solar pilotando tu propia nave espacial en vista de tercera persona.
 
-## 🎥 Video Demo
+## Video Demo
 
 [![Ver Video](https://img.shields.io/badge/Ver_Video_en_Google_Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/19RnCJQB9iwkOtanJz7qWxI9qJJf-0o3b/view?usp=sharing)
 
@@ -71,7 +71,7 @@ Un simulador espacial interactivo desarrollado en Rust que te permite explorar n
 - **Sistema de materiales** procedurales
 - **Culling** y optimizaciones de renderizado
 
-## 📦 Instalación
+## Instalación
 
 ### Prerrequisitos
 - Rust 1.70+ instalado
